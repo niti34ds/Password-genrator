@@ -1,5 +1,7 @@
 # Password-genrator
 Welcome to the Password Generator repository! This project is a simple, yet powerful tool designed to help users generate strong, secure passwords effortlessly.
+
+
 Features
 Customizable Length: Adjust the length of the password to suit your needs.
 Character Options: Include/exclude uppercase letters, lowercase letters, numbers, and special characters.
